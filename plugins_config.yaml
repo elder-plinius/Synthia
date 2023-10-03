@@ -1,0 +1,9 @@
+AutoGPTTextGenPlugin:
+  config: {}
+  enabled: false
+AutoGPTDiscord:
+  config: {}
+  enabled: true
+PlannerPlugin:
+  config: {}
+  enabled: false
